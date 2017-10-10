@@ -7,3 +7,4 @@ A aquest treball el que em fet ha estat una pàgina web simple a la que teniem u
 * Descripció de cada imatge
 * Taula de dades
 * Llista amb 3 enllaços
+https://cdn.rawgit.com/MiquelCirer/Primer-Disseny-Web/f87a88ee/pagina.html
